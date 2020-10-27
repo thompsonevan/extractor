@@ -1,0 +1,100 @@
+Question 1: In the "Shrek" film franchise, Donkey is played by Eddie Murphy.
+Answer 1: True
+Question 2: Snakes and Ladders was originally created in India?
+Answer 2: True
+Question 3: In base 2, what is 1 + 1?
+Answer 3: 10
+Question 4: In South Park, what is Stan's surname?
+Answer 4: Marsh
+Question 5: Which state of the United States is the smallest?
+Answer 5: Rhode Island 
+Question 6: The body of the Egyptian Sphinx was based on which animal?
+Answer 6: Lion
+Question 7: Joseph Smith was the founder of what religion?
+Answer 7: Mormonism
+Question 8: Who was the original drummer for The Beatles?
+Answer 8: Tommy Moore
+Question 9: In which country's version of Half-Life are the HECU Marines replaced with robots?
+Answer 9: Germany
+Question 10: Grant Gustin plays which superhero on the CW show of the same name?
+Answer 10: The Flash
+Question 11: The words "bungalow" and "shampoo" originate from the languages of which country?
+Answer 11: India
+Question 12: The longest place named in the United States is Lake Chargoggagoggmanchauggagoggchaubunagungamaugg, located near Webster, MA.
+Answer 12: True
+Question 13: The largest consumer market in 2015 was...
+Answer 13: The United States of America
+Question 14: Which of these countries is located the FURTHEST away from the South China Sea?
+Answer 14: Bangladesh
+Question 15: What type of animal was Harambe, who was shot after a child fell into it's enclosure at the Cincinnati Zoo?
+Answer 15: Gorilla
+Question 16: Which of these is NOT the name of an album released by American rapper Viper?
+Answer 16: The Life of Pablo
+Question 17: Tetris is the #1 best-selling video game of all-time.
+Answer 17: False
+Question 18: In what prison was Adolf Hitler held in 1924?
+Answer 18: Landsberg Prison
+Question 19: How many people are in the U.S. House of Representatives?
+Answer 19: 435
+Question 20: "The Big Bang Theory" was first theorized by a priest of what religious ideology?
+Answer 20: Catholic
+Question 21: Who played Baron Victor Frankestein in the 1957 Hammer horror film "The Curse of Frankenstein"?
+Answer 21: Peter Cushing
+Question 22: In Alfred Hitchcock's film 'Psycho' it is said he used chocolate syrup to simulate the blood in the famous shower scene from 
+Answer 22: True
+Question 23: TF2: Sentry rocket damage falloff is calculated based on the distance between the sentry and the enemy, not the engineer and the enemy
+Answer 23: False
+Question 24: In the Homestuck Series, what is the alternate name for the Kingdom of Lights?
+Answer 24: Prospit
+Question 25: Who is the leader of Team Instinct in Pokémon Go?
+Answer 25: Spark
+Question 26: What is the default alias that Princess Garnet goes by in Final Fantasy IX?
+Answer 26: Dagger
+Question 27: What was the real name of the Albanian national leader Skanderbeg?
+Answer 27: Gjergj Kastrioti
+Question 28: Who voices the infamous Citadel Station A.I known as S.H.O.D.A.N, in the System Shock games?
+Answer 28: Terri Brosius
+Question 29: In the game Dead by Daylight, the killer Michael Myers is refered to as "The Shape".
+Answer 29: True
+Question 30: Who designed the album cover for True Romance, an album by Estelle?
+Answer 30: Rebecca Sugar
+Question 31: Which historical conflict killed the most people?
+Answer 31: World War II
+Question 32: George Lucas directed the entire original Star Wars trilogy.
+Answer 32: False
+Question 33: Who performed "I Took A Pill In Ibiza"?
+Answer 33: Mike Posner
+Question 34: What color is the "Ex" in FedEx Ground?
+Answer 34: Green
+Question 35: In what year did Kentucky become the 15th state to join the union?
+Answer 35: 1792
+Question 36: How many values can a single byte represent?
+Answer 36: 256
+Question 37: Burning which of these metals will produce a bright white flame?
+Answer 37: Magnesium
+Question 38: What is the perk that was introduced in the "Call Of Duty: Zombies" map, "Mob Of The Dead"?
+Answer 38: Electric Cherry
+Question 39: Pete Townshend collaborated with which famous guitarist for an event at Brixton Academy in 1985?
+Answer 39: David Gilmour
+Question 40: In which of these TV shows did the chef Gordon Ramsay not appear?
+Answer 40: Auction Hunters
+Question 41: What is real haggis made of?
+Answer 41: Sheep's Heart, Liver and Lungs
+Question 42: Björk's "Unison" contains a sample of which Oval song?
+Answer 42: Aero Deck
+Question 43: In Calvin and Hobbes, what is the name of the babysitter's boyfriend?
+Answer 43: Charlie
+Question 44: Which boxing personality was one of the presenters in the 1999 revival of It's a Knockout?
+Answer 44: Frank Bruno
+Question 45: Who directed the Kill Bill movies?
+Answer 45: Quentin Tarantino
+Question 46: Which former US president was nicknamed "Teddy" after he refused to shoot a defenseless black bear?
+Answer 46: Theodore Roosevelt
+Question 47: Which weapon that was cut from the game "Half Life 2" was going to replace the crowbar?
+Answer 47: Ice Axe
+Question 48: What physics principle relates the net electric flux out of a closed surface to the charge enclosed by that surface?
+Answer 48: Gauss's Law
+Question 49: In the MMO RPG "Realm of the Mad God", what class is known for having the highest possible defense?
+Answer 49: The Knight
+Question 50: What city is the Terracotta Army located in?
+Answer 50: Xi'an

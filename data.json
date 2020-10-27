@@ -1,0 +1,589 @@
+{
+   "response_code":0,
+   "results":[
+      {
+         "category":"Entertainment: Cartoon & Animations",
+         "type":"boolean",
+         "difficulty":"easy",
+         "question":"In the &quot;Shrek&quot; film franchise, Donkey is played by Eddie Murphy.",
+         "correct_answer":"True",
+         "incorrect_answers":[
+            "False"
+         ]
+      },
+      {
+         "category":"Entertainment: Board Games",
+         "type":"boolean",
+         "difficulty":"easy",
+         "question":"Snakes and Ladders was originally created in India?",
+         "correct_answer":"True",
+         "incorrect_answers":[
+            "False"
+         ]
+      },
+      {
+         "category":"Science: Mathematics",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"In base 2, what is 1 + 1?",
+         "correct_answer":"10",
+         "incorrect_answers":[
+            "Two (2)",
+            "01",
+            "11"
+         ]
+      },
+      {
+         "category":"Entertainment: Cartoon & Animations",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"In South Park, what is Stan&#039;s surname?",
+         "correct_answer":"Marsh",
+         "incorrect_answers":[
+            "Stotch",
+            "Broflovski",
+            "Tweak"
+         ]
+      },
+      {
+         "category":"Geography",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"Which state of the United States is the smallest?",
+         "correct_answer":"Rhode Island ",
+         "incorrect_answers":[
+            "Maine",
+            "Vermont",
+            "Massachusetts"
+         ]
+      },
+      {
+         "category":"Geography",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"The body of the Egyptian Sphinx was based on which animal?",
+         "correct_answer":"Lion",
+         "incorrect_answers":[
+            "Bull",
+            "Horse",
+            "Dog"
+         ]
+      },
+      {
+         "category":"History",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"Joseph Smith was the founder of what religion?",
+         "correct_answer":"Mormonism",
+         "incorrect_answers":[
+            "Buddhism",
+            "Christianity",
+            "Hinduism"
+         ]
+      },
+      {
+         "category":"Entertainment: Music",
+         "type":"multiple",
+         "difficulty":"hard",
+         "question":"Who was the original drummer for The Beatles?",
+         "correct_answer":"Tommy Moore",
+         "incorrect_answers":[
+            "Ringo Starr",
+            "Stuart Sutcliffe",
+            "Pete Best"
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"In which country&#039;s version of Half-Life are the HECU Marines replaced with robots?",
+         "correct_answer":"Germany",
+         "incorrect_answers":[
+            "Japan",
+            "China",
+            "France"
+         ]
+      },
+      {
+         "category":"Entertainment: Television",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Grant Gustin plays which superhero on the CW show of the same name?",
+         "correct_answer":"The Flash",
+         "incorrect_answers":[
+            "The Arrow",
+            "Black Canary",
+            "Daredevil"
+         ]
+      },
+      {
+         "category":"General Knowledge",
+         "type":"multiple",
+         "difficulty":"hard",
+         "question":"The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+         "correct_answer":"India",
+         "incorrect_answers":[
+            "Papua New Guinea",
+            "Ethiopia",
+            "China"
+         ]
+      },
+      {
+         "category":"Geography",
+         "type":"boolean",
+         "difficulty":"medium",
+         "question":"The longest place named in the United States is Lake Chargoggagoggmanchauggagoggchaubunagungamaugg, located near Webster, MA.",
+         "correct_answer":"True",
+         "incorrect_answers":[
+            "False"
+         ]
+      },
+      {
+         "category":"Politics",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"The largest consumer market in 2015 was...",
+         "correct_answer":"The United States of America",
+         "incorrect_answers":[
+            "Germany",
+            "Japan",
+            "United Kingdom"
+         ]
+      },
+      {
+         "category":"Geography",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"Which of these countries is located the FURTHEST away from the South China Sea?",
+         "correct_answer":"Bangladesh",
+         "incorrect_answers":[
+            "Malaysia",
+            "Vietnam",
+            "Philippines"
+         ]
+      },
+      {
+         "category":"General Knowledge",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"What type of animal was Harambe, who was shot after a child fell into it&#039;s enclosure at the Cincinnati Zoo?",
+         "correct_answer":"Gorilla",
+         "incorrect_answers":[
+            "Tiger",
+            "Panda",
+            "Crocodile"
+         ]
+      },
+      {
+         "category":"Entertainment: Music",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"Which of these is NOT the name of an album released by American rapper Viper?",
+         "correct_answer":"The Life of Pablo",
+         "incorrect_answers":[
+            "Kill Urself My Man",
+            "You&#039;ll Cowards Don&#039;t Even Smoke Crack",
+            "Yo Wife Handcuffin&#039; Me"
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"boolean",
+         "difficulty":"easy",
+         "question":"Tetris is the #1 best-selling video game of all-time.",
+         "correct_answer":"False",
+         "incorrect_answers":[
+            "True"
+         ]
+      },
+      {
+         "category":"History",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"In what prison was Adolf Hitler held in 1924?",
+         "correct_answer":"Landsberg Prison",
+         "incorrect_answers":[
+            "Spandau Prison",
+            "Ebrach Abbey",
+            "Hohenasperg"
+         ]
+      },
+      {
+         "category":"Politics",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"How many people are in the U.S. House of Representatives?",
+         "correct_answer":"435",
+         "incorrect_answers":[
+            "260",
+            "415",
+            "50"
+         ]
+      },
+      {
+         "category":"Science & Nature",
+         "type":"multiple",
+         "difficulty":"hard",
+         "question":"&quot;The Big Bang Theory&quot; was first theorized by a priest of what religious ideology?",
+         "correct_answer":"Catholic",
+         "incorrect_answers":[
+            "Christian",
+            "Jewish",
+            "Islamic"
+         ]
+      },
+      {
+         "category":"Entertainment: Film",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"Who played Baron Victor Frankestein in the 1957 Hammer horror film &quot;The Curse of Frankenstein&quot;?",
+         "correct_answer":"Peter Cushing",
+         "incorrect_answers":[
+            "Boris Karloff",
+            "Vincent Price",
+            "Lon Chaney Jr."
+         ]
+      },
+      {
+         "category":"Entertainment: Film",
+         "type":"boolean",
+         "difficulty":"easy",
+         "question":"In Alfred Hitchcock&#039;s film &#039;Psycho&#039; it is said he used chocolate syrup to simulate the blood in the famous shower scene from ",
+         "correct_answer":"True",
+         "incorrect_answers":[
+            "False"
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"boolean",
+         "difficulty":"hard",
+         "question":"TF2: Sentry rocket damage falloff is calculated based on the distance between the sentry and the enemy, not the engineer and the enemy",
+         "correct_answer":"False",
+         "incorrect_answers":[
+            "True"
+         ]
+      },
+      {
+         "category":"Entertainment: Comics",
+         "type":"multiple",
+         "difficulty":"hard",
+         "question":"In the Homestuck Series, what is the alternate name for the Kingdom of Lights?",
+         "correct_answer":"Prospit",
+         "incorrect_answers":[
+            "No Name",
+            "Golden City",
+            "Yellow Moon"
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Who is the leader of Team Instinct in Pok&eacute;mon Go?",
+         "correct_answer":"Spark",
+         "incorrect_answers":[
+            "Candela",
+            "Blanche",
+            "Willow"
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"What is the default alias that Princess Garnet goes by in Final Fantasy IX?",
+         "correct_answer":"Dagger",
+         "incorrect_answers":[
+            "Dirk",
+            "Garnet",
+            "Quina"
+         ]
+      },
+      {
+         "category":"History",
+         "type":"multiple",
+         "difficulty":"hard",
+         "question":"What was the real name of the Albanian national leader Skanderbeg?",
+         "correct_answer":"Gjergj Kastrioti",
+         "incorrect_answers":[
+            "Diturak Zhulati",
+            "Iskander Bejko",
+            "Mirash Krasniki"
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"Who voices the infamous Citadel Station A.I known as S.H.O.D.A.N, in the System Shock games?",
+         "correct_answer":"Terri Brosius",
+         "incorrect_answers":[
+            " Jennifer Hale",
+            "Jenn Taylor",
+            "Lori Alan"
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"boolean",
+         "difficulty":"easy",
+         "question":"In the game Dead by Daylight, the killer Michael Myers is refered to as &quot;The Shape&quot;.",
+         "correct_answer":"True",
+         "incorrect_answers":[
+            "False"
+         ]
+      },
+      {
+         "category":"Entertainment: Music",
+         "type":"multiple",
+         "difficulty":"hard",
+         "question":"Who designed the album cover for True Romance, an album by Estelle?",
+         "correct_answer":"Rebecca Sugar",
+         "incorrect_answers":[
+            "Matt Burnett",
+            "Ian Jones Quartey",
+            "Ben Leven"
+         ]
+      },
+      {
+         "category":"History",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"Which historical conflict killed the most people?",
+         "correct_answer":"World War II",
+         "incorrect_answers":[
+            "Taiping Rebellion",
+            "Three Kingdoms War",
+            "Mongol conquests"
+         ]
+      },
+      {
+         "category":"Entertainment: Film",
+         "type":"boolean",
+         "difficulty":"easy",
+         "question":"George Lucas directed the entire original Star Wars trilogy.",
+         "correct_answer":"False",
+         "incorrect_answers":[
+            "True"
+         ]
+      },
+      {
+         "category":"Entertainment: Music",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Who performed &quot;I Took A Pill In Ibiza&quot;?",
+         "correct_answer":"Mike Posner",
+         "incorrect_answers":[
+            "Avicii",
+            "Robbie Williams",
+            "Harry Styles"
+         ]
+      },
+      {
+         "category":"General Knowledge",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"What color is the &quot;Ex&quot; in FedEx Ground?",
+         "correct_answer":"Green",
+         "incorrect_answers":[
+            "Red",
+            "Light Blue",
+            "Orange"
+         ]
+      },
+      {
+         "category":"History",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"In what year did Kentucky become the 15th state to join the union?",
+         "correct_answer":"1792",
+         "incorrect_answers":[
+            "1782",
+            "1798",
+            "1788"
+         ]
+      },
+      {
+         "category":"Science: Computers",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"How many values can a single byte represent?",
+         "correct_answer":"256",
+         "incorrect_answers":[
+            "8",
+            "1",
+            "1024"
+         ]
+      },
+      {
+         "category":"Science & Nature",
+         "type":"multiple",
+         "difficulty":"hard",
+         "question":"Burning which of these metals will produce a bright white flame?",
+         "correct_answer":"Magnesium",
+         "incorrect_answers":[
+            "Copper",
+            "Lithium",
+            "Lead"
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"What is the perk that was introduced in the &quot;Call Of Duty: Zombies&quot; map, &quot;Mob Of The Dead&quot;?",
+         "correct_answer":"Electric Cherry",
+         "incorrect_answers":[
+            "Quick Revive",
+            "Vulture Aid",
+            "Tombstone"
+         ]
+      },
+      {
+         "category":"Entertainment: Music",
+         "type":"multiple",
+         "difficulty":"hard",
+         "question":"Pete Townshend collaborated with which famous guitarist for an event at Brixton Academy in 1985?",
+         "correct_answer":"David Gilmour",
+         "incorrect_answers":[
+            "Jimmy Page",
+            "Mark Knopfler",
+            "Eric Clapton"
+         ]
+      },
+      {
+         "category":"Celebrities",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"In which of these TV shows did the chef Gordon Ramsay not appear?",
+         "correct_answer":"Auction Hunters",
+         "incorrect_answers":[
+            "Ramsay&#039;s Kitchen Nightmares",
+            "Hotel Hell",
+            "Hell&#039;s Kitchen"
+         ]
+      },
+      {
+         "category":"General Knowledge",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"What is real haggis made of?",
+         "correct_answer":"Sheep&#039;s Heart, Liver and Lungs",
+         "incorrect_answers":[
+            "Sheep&#039;s Heart, Kidneys and Lungs",
+            "Sheep&#039;s Liver, Kidneys and Eyes",
+            "Whole Sheep"
+         ]
+      },
+      {
+         "category":"Entertainment: Music",
+         "type":"multiple",
+         "difficulty":"hard",
+         "question":"Bj&ouml;rk&#039;s &quot;Unison&quot; contains a sample of which Oval song?",
+         "correct_answer":"Aero Deck",
+         "incorrect_answers":[
+            "Textuell",
+            "Panorama",
+            "Do While"
+         ]
+      },
+      {
+         "category":"Entertainment: Comics",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"In Calvin and Hobbes, what is the name of the babysitter&#039;s boyfriend?",
+         "correct_answer":"Charlie",
+         "incorrect_answers":[
+            "Dave",
+            "Charles",
+            "Nathaniel"
+         ]
+      },
+      {
+         "category":"Entertainment: Television",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"Which boxing personality was one of the presenters in the 1999 revival of It&#039;s a Knockout?",
+         "correct_answer":"Frank Bruno",
+         "incorrect_answers":[
+            "Henry Cooper",
+            "Muhammad Ali",
+            "Joe Fraiser"
+         ]
+      },
+      {
+         "category":"Entertainment: Film",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Who directed the Kill Bill movies?",
+         "correct_answer":"Quentin Tarantino",
+         "incorrect_answers":[
+            "Arnold Schwarzenegger",
+            "David Lean",
+            "Stanley Kubrick"
+         ]
+      },
+      {
+         "category":"Politics",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Which former US president was nicknamed &quot;Teddy&quot; after he refused to shoot a defenseless black bear?",
+         "correct_answer":"Theodore Roosevelt",
+         "incorrect_answers":[
+            "Woodrow Wilson",
+            "James F. Fielder",
+            "Andrew Jackson"
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"Which weapon that was cut from the game &quot;Half Life 2&quot; was going to replace the crowbar?",
+         "correct_answer":"Ice Axe",
+         "incorrect_answers":[
+            "Fire Axe",
+            "Wrench",
+            "Hunting Knife"
+         ]
+      },
+      {
+         "category":"Science & Nature",
+         "type":"multiple",
+         "difficulty":"hard",
+         "question":"What physics principle relates the net electric flux out of a closed surface to the charge enclosed by that surface?",
+         "correct_answer":"Gauss&#039;s Law",
+         "incorrect_answers":[
+            "Faraday&#039;s Law",
+            "Ampere&#039;s Law",
+            "Biot-Savart Law"
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"In the MMO RPG &quot;Realm of the Mad God&quot;, what class is known for having the highest possible defense?",
+         "correct_answer":"The Knight",
+         "incorrect_answers":[
+            "The Wizard",
+            "The Archer",
+            "The Warrior"
+         ]
+      },
+      {
+         "category":"Geography",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"What city is the Terracotta Army located in?",
+         "correct_answer":"Xi&#039;an",
+         "incorrect_answers":[
+            "Beijing",
+            "Shanghai",
+            "Hong Kong"
+         ]
+      }
+   ]
+}
